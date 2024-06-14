@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Katalon Team</name>
+   <tag></tag>
+   <elementGuidId>2f306747-9e92-441b-b3b5-6059096d8bec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@name='Katalon Team'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\:29&quot;] > .bA4 > .zF</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92d00c6a-ddc4-4dc7-a520-11d086229b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>no</value>
+      <webElementGuid>8d644275-4fd7-49ff-861b-465968800bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zF</value>
+      <webElementGuid>196a274f-3ae3-4fcb-ae24-ec4f190d0eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>email</name>
+      <type>Main</type>
+      <value>hello@katalon.com</value>
+      <webElementGuid>35358e38-441f-4bc2-b739-7789e66c3508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Katalon Team</value>
+      <webElementGuid>8e31c215-2387-4bcd-a0a3-98f951e25b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovercard-id</name>
+      <type>Main</type>
+      <value>hello@katalon.com</value>
+      <webElementGuid>d8409a60-da21-4da6-9eca-eeabd8d9bd5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Team</value>
+      <webElementGuid>ee8784ef-4479-466c-b730-53c19eed3dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:29&quot;)/span[@class=&quot;bA4&quot;]/span[@class=&quot;zF&quot;]</value>
+      <webElementGuid>29460da6-ed7b-4b16-b1a0-175730279465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@name='Katalon Team'])[2]</value>
+      <webElementGuid>033596ee-b4ae-4148-b0b5-f6cdbcf1dd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':29']/span/span</value>
+      <webElementGuid>9fc6e373-e7fd-4613-84a1-0775454b8935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::span[2]</value>
+      <webElementGuid>06a8ca1f-36d8-453f-be47-abd20708f7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Tip 1 of 4] Ready-to-test demo sites'])[1]/following::span[3]</value>
+      <webElementGuid>e30414d9-53d6-4be8-98e9-d87e9cc91323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Tip 1 of 4] Ready-to-test demo sites'])[2]/preceding::span[1]</value>
+      <webElementGuid>c76d2571-c22d-47f8-9721-4eda40dafaeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/span</value>
+      <webElementGuid>af191023-f972-4e28-990b-4269e801e4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@name = 'Katalon Team' and (text() = 'Katalon Team' or . = 'Katalon Team')]</value>
+      <webElementGuid>9febf452-e9fd-4335-8699-e1502a051c9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

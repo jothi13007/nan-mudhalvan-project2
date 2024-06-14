@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_usernametf.annauniv.edu</name>
+   <tag></tag>
+   <elementGuidId>cb6aa355-956c-4f9e-9ef5-fc120b98ba83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='bg']/div/div[2]/div/div/div/aside/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Teaching Fellow username@tf.annauniv.edu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb0520b0-77f9-4a37-9487-8e89943d8126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>username@tf.annauniv.edu</value>
+      <webElementGuid>8dd7dfe0-5455-4eae-ae5c-e65227dfe95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bg&quot;)/div[@class=&quot;page-wraper&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-lg-4 col-md-12&quot;]/aside[@class=&quot;side-bar sticky-top&quot;]/div[@class=&quot;widget widget_archive&quot;]/ul[1]/li[2]/a[1]/span[1]</value>
+      <webElementGuid>bb882af8-3542-4cc3-be30-12948adb8d28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='bg']/div/div[2]/div/div/div/aside/div/ul/li[2]/a/span</value>
+      <webElementGuid>5e885d7c-43e9-4a35-be55-02d174cbe900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='username@annauniv.edu'])[1]/following::span[1]</value>
+      <webElementGuid>f5847ef2-eebf-4c30-81c3-68cd22438072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='regno@student.annauniv.edu'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2129ce7-b0db-422a-a475-0fcb1dc5d3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='username@tf.annauniv.edu']/parent::*</value>
+      <webElementGuid>c31d16c7-b1fd-494f-a0dc-c381098c2292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>a3fb58b3-d5c1-438c-b71d-b96648a151bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'username@tf.annauniv.edu' or . = 'username@tf.annauniv.edu')]</value>
+      <webElementGuid>65aa6628-9a77-4003-9cc3-0a5725c03074</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

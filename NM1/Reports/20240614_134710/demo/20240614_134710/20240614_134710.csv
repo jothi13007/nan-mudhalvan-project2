@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+demo,Chrome 126.0.0.0,,,14-06-2024 13:47:16,14-06-2024 13:50:54,3m - 37.793s,FAILED
+,,,,,,,
+Test Cases/New Test Case,Chrome 126.0.0.0,,,14-06-2024 13:49:59,14-06-2024 13:50:54,54.483s,FAILED
+"openBrowser("""")",Chrome 126.0.0.0,,,14-06-2024 13:49:59,14-06-2024 13:50:00,0.960s,PASSED
+"navigateToUrl(""https://www.annauniv.edu/"")",Chrome 126.0.0.0,,,14-06-2024 13:50:00,14-06-2024 13:50:08,8.499s,PASSED
+"click(findTestObject(""Object Repository/Anna University/Page_Anna University, Chennai/img""))",Chrome 126.0.0.0,,,14-06-2024 13:50:08,14-06-2024 13:50:09,0.347s,PASSED
+"switchToWindowTitle(""Anna University, Chennai"")",Chrome 126.0.0.0,,,14-06-2024 13:50:09,14-06-2024 13:50:09,0.033s,PASSED
+"click(findTestObject(""Object Repository/Anna University/Page_Anna University, Chennai/img""))",Chrome 126.0.0.0,,,14-06-2024 13:50:09,14-06-2024 13:50:09,0.350s,PASSED
+"switchToWindowTitle(""Sign in to Outlook"")",Chrome 126.0.0.0,,,14-06-2024 13:50:09,14-06-2024 13:50:54,44.281s,FAILED

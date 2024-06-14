@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>11749eaa-f461-4d3d-bdaf-59ecfbc1f2d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='bg']/div/header/div/div/div/div/div[2]/ul/li[9]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(9) > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li:nth-child(9) > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5ad48289-676a-4909-a356-4e27d21fee16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/email.png</value>
+      <webElementGuid>13efc810-0add-414a-ba0c-da9acd293375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bg&quot;)/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header&quot;]/div[@class=&quot;sticky-header main-bar-wraper navbar-expand-lg&quot;]/div[@class=&quot;main-bar clearfix&quot;]/div[@class=&quot;top-bar&quot;]/div[@class=&quot;row d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;col-lg-9 dlab-topbar-right text-center&quot;]/ul[1]/li[9]/a[1]/img[1]</value>
+      <webElementGuid>2ba5684d-45b0-4740-9851-cca65b0cfb08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='bg']/div/header/div/div/div/div/div[2]/ul/li[9]/a/img</value>
+      <webElementGuid>5e19b68e-38bc-4f47-8960-9801ed9682d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/img</value>
+      <webElementGuid>12a6d6cf-a47e-4bdd-ac97-526dfc69bfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/email.png']</value>
+      <webElementGuid>2fa75521-42e1-4735-8a1d-ca85ddf141df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
